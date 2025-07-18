@@ -6,6 +6,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:  I love baking, coffee and exploring new cuisines.
 - A link to my portfolio https://gloriacodes-datanalyst.github.io/GloriaTheAnalyst.github.io/#
+- https://github.com/GloriaCodes-datanalyst/GloriaTheAnalyst.github.io 
 
 <!---
 GloriaCodes-datanalyst/GloriaCodes-datanalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
