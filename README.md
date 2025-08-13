@@ -5,7 +5,7 @@
 - 📫 How to reach me hello.gloriaowino@gmail.com  
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:  I love baking, coffee and exploring new cuisines.
-- A link to my portfolio https://gloriacodes-datanalyst.github.io/gloriatheanalyst.github.io/ 
+- A link to my portfolio https://github.com/gloriatheanalyst
 
 <!---
 GloriaCodes-datanalyst/GloriaCodes-datanalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
